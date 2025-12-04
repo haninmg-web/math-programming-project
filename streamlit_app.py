@@ -12,6 +12,9 @@ st.markdown("""
 - Jannah Abdullah
 - Jannah Saleh
 
+### 🧑‍🏫 Supervised by:
+- Dr. Reem Algethamie
+
 ### 📘 Mathematical Programming Course Project
 """)
 
